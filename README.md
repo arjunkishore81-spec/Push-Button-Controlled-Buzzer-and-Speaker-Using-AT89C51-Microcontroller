@@ -133,6 +133,12 @@ void main(void)
 | Released | LOW | LOW | OFF |
 | Pressed | HIGH | HIGH | ON |
 
+##OUTPUT
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/bb3d5cae-e9f4-400e-b82d-906a89a39da3" />
+<img width="1312" height="1199" alt="image" src="https://github.com/user-attachments/assets/401de397-3bcd-40f3-a4cb-aae61a54e4bd" />
+
+
+
 ## Applications
 
 - Security alarm systems
